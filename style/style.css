@@ -21,10 +21,15 @@ margin-left: 20px;
 }
 .menu{
     width: 70%;
+    vertical-align: middle;
 }
+/* რატომღაც არცერთმა გაცენტრვამ არ იმუშავა ამიტომაც მერჯინით გავაკეთე */
 .menuitempatent{
     display: flex;
     gap: 40px;
-    justify-content: center;
-
+    margin-top: 15px;
+}
+.menuitem{
+    color: #274C5B;
+    font-size: 20px;
 }
