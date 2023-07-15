@@ -88,3 +88,34 @@ margin-left: 20px;
  color: #525C60;   
  margin: 20px 0 0 30px;
 }
+.section2{
+    background-color:#F9F8F8;
+    padding: 50px 150px 50px 150px;
+}
+.card1parent{
+    display: flex;
+    gap: 30px;
+}
+.card1{
+    background-color: #FFFFFF;
+    padding: 30px 30px 130px 30px;
+}
+.card1 h1{
+    color: #274C5B;
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.card1 p{
+    counter-reset: #525C60;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
